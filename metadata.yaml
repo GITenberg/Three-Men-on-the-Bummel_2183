@@ -1,0 +1,52 @@
+_repo: Three-Men-on-the-Bummel_2183
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Jerome, Jerome K. (Jerome Klapka)
+    alias: Jerome, Jerome Klapka
+    birthdate: 1859
+    deathdate: 1927
+    gutenberg_agent_id: '173'
+    url: http://www.gutenberg.org/2009/agents/173
+    wikipedia: http://en.wikipedia.org/wiki/Jerome_K._Jerome
+description: "Three Men on the Bummel (also known as Three Men on Wheels) is a humorous\
+  \ novel by Jerome K. Jerome. It was published in 1900, eleven years after his most\
+  \ famous work, Three Men in a Boat (To Say Nothing of the Dog).\nThe sequel brings\
+  \ back the three companions who figured in Three Men in a Boat, this time on a bicycle\
+  \ tour through the German Black Forest. D. C. Browning's introduction to the 1957\
+  \ Everyman's edition says \"Like most sequels, it has been compared unfavourably\
+  \ with its parent story, but it was only a little less celebrated than Three Men\
+  \ in a Boat and was for long used as a school book in Germany.\"[1] Jeremy Nicholas\
+  \ of the Jerome K. Jerome Society regards it as a \"comic masterpiece\" containing\
+  \ \"set pieces\" as funny or funnier than those in its predecessor, but, taken as\
+  \ a whole, not as satisfying due to the lack of as strong a unifying thread.[2]\n\
+  \ From Wikipedia (CC BY-SA)."
+gutenberg_bookshelf: Humor
+gutenberg_issued: '2000-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2183'
+  wikidata: Q948984
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Bicycle touring -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Black Forest (Germany) -- Fiction'
+- !lcsh 'British -- Germany -- Fiction'
+- !lcsh 'Humorous stories'
+- GITenberg
+title: Three Men on the Bummel
+url: http://www.gutenberg.org/ebooks/2183
+wikipedia:
+- https://ar.wikipedia.org/wiki/%D8%AB%D9%84%D8%A7%D8%AB%D8%A9_%D8%B1%D8%AC%D8%A7%D9%84_%D8%B9%D9%84%D9%89_%D8%A7%D9%84%D8%A8%D9%88%D9%85%D9%8A%D9%84
+- https://de.wikipedia.org/wiki/Drei_M%C3%A4nner_auf_Bummelfahrt
+- https://ru.wikiquote.org/wiki/%D0%A2%D1%80%D0%BE%D0%B5_%D0%BD%D0%B0_%D1%87%D0%B5%D1%82%D1%8B%D1%80%D1%91%D1%85_%D0%BA%D0%BE%D0%BB%D1%91%D1%81%D0%B0%D1%85
+- https://en.wikipedia.org/wiki/Three_Men_on_the_Bummel
+- https://it.wikipedia.org/wiki/Tre_uomini_a_zonzo
+- https://uk.wikipedia.org/wiki/%D0%A2%D1%80%D0%BE%D1%94_%D0%BD%D0%B0_%D0%B1%D1%83%D0%BC%D0%B5%D0%BB%D1%96
+- https://ru.wikipedia.org/wiki/%D0%A2%D1%80%D0%BE%D0%B5_%D0%BD%D0%B0_%D1%87%D0%B5%D1%82%D1%8B%D1%80%D1%91%D1%85_%D0%BA%D0%BE%D0%BB%D1%91%D1%81%D0%B0%D1%85
+- https://he.wikipedia.org/wiki/%D7%A9%D7%9C%D7%95%D7%A9%D7%94_%D7%92%D7%91%D7%A8%D7%99%D7%9D_%D7%91%D7%91%D7%95%D7%9E%D7%9C
+- https://pl.wikiquote.org/wiki/Trzech_Pan%C3%B3w_na_w%C5%82%C3%B3cz%C4%99dze
