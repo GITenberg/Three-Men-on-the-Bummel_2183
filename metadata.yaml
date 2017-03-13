@@ -1,5 +1,8 @@
 _repo: Three-Men-on-the-Bummel_2183
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Jerome, Jerome K. (Jerome Klapka)
@@ -21,6 +24,8 @@ description: "Three Men on the Bummel (also known as Three Men on Wheels) is a h
   \ \"set pieces\" as funny or funnier than those in its predecessor, but, taken as\
   \ a whole, not as satisfying due to the lack of as strong a unifying thread.[2]\n\
   \ From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/2183#Three-Men-on-the-Bummel
 gutenberg_bookshelf: Humor
 gutenberg_issued: '2000-05-01'
 gutenberg_type: Text
